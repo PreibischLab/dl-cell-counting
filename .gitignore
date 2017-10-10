@@ -1,3 +1,9 @@
 # Added by milkyklim
 algorithm/data
+algorithm/images-cell
+algorithm/network-temp
 algorithm/.ipynb_checkpoints/
+
+# remove pickled files 
+algorithm/*.p
+
