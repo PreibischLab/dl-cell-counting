@@ -1,4 +1,4 @@
-idx=1; 
+idx=201; 
 ext=".png"
 for file in cells*; 
 do 
